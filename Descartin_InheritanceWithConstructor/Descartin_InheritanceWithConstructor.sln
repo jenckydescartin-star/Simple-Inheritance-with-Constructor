@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descartin_InheritanceWithConstructor", "Descartin_InheritanceWithConstructor\Descartin_InheritanceWithConstructor.csproj", "{74F14493-6596-45D9-A9AE-729FF6376F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F14493-6596-45D9-A9AE-729FF6376F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F14493-6596-45D9-A9AE-729FF6376F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F14493-6596-45D9-A9AE-729FF6376F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F14493-6596-45D9-A9AE-729FF6376F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513D0B19-0DB0-4377-AEA2-61933ED69399}
+	EndGlobalSection
+EndGlobal
